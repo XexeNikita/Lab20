@@ -25,8 +25,8 @@ namespace LAB2
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        const string SubscriptionKey = "fcadbdcb506f44399ee6fccd1bfb9b19";
-        const string UriBase = "https://sblabs.cognitiveservices.azure.com/";
+        const string SubscriptionKey = "6d05deb393af40e69e213a6ded33b17a";
+        const string UriBase = "https://xexegfrfnikidu.cognitiveservices.azure.com/";
         // Подключение к когнитивному сервису
         public MainPage()
         {
